@@ -1,10 +1,8 @@
 ---
 title: "On the Journey to Machine Learning / AI"
 date: 2019-12-30T20:34:53Z
-draft: false
+draft: true
 ---
-
-# On the Journey to Machine Learning / AI
 
 This is my first blog on Machine Learning (ML) and my journey through it. I’ve been quite interested in all things data from the very beginning of my career as a Software Engineer.
 
