@@ -1,6 +1,6 @@
 ---
 title: "On the Journey to Machine Learning / AI"
-date: 2019-12-30 T18:27:00+01:00
+date: 2019-12-30T20:34:53Z
 draft: false
 ---
 
@@ -95,3 +95,4 @@ The benefits I’ve seen so far in Business, Society, and Life are massive, a co
 The later is a good example of how we actually can make Machine Learning part of our lives and skills to boost our work and perhaps produce more with less in our business or simply a better world to live in.
 If you are more curious about what types of Machine Learning are around and how you could start thinking if it’s worth it or not to apply it to your business use cases, stick around and follow me as I’m planning to write more about it in next posts.
  
+
