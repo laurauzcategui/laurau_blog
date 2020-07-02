@@ -4,6 +4,9 @@ title = "Laura's Site"
 theme = "pulp"
 canonifyurls = true
 
+[markup.goldmark.renderer]
+    unsafe = true # Allow user HTML tags
+
 [taxonomies]
   tag = "tags"
   category = "categories"
@@ -24,6 +27,7 @@ canonifyurls = true
 
 [outputs]
     section = ["JSON", "HTML"]
+    term = ["JSON", "HTML"]
 
 [[menu.main]]
     identifier = "blog"
